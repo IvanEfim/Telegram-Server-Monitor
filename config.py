@@ -4,7 +4,7 @@
 NAME = "monitoradmin_Bot"
 
 # токен
-TOKEN = "6101499582:AAHYSe3K0MjLcj5S9anXFnEHI9ZVnr8-lEs"
+TOKEN = ""
 
 # пароль"/старт <пароль>"
 PASSWORD = "qw12er13"
